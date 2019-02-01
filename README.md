@@ -6,7 +6,12 @@ smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使
 可以用来练手，也可以直接用来用做CMS的后台。
 > 项目地址
 
-[https://github.com/smashdog/smcmf](https://github.com/smashdog/smcmf)
+[后端](https://github.com/smashdog/smcmf_php)
+
+[前端](https://github.com/smashdog/smcmf_html)
+
+[DB](https://github.com/smashdog/smcmf_sql)
+
 > 文档地址
 
 [https://www.kancloud.cn/smashdog/smcmf/790563](https://www.kancloud.cn/smashdog/smcmf/790563)
