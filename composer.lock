@@ -183,16 +183,16 @@
         },
         {
             "name": "qcloud/cos-sdk-v5",
-            "version": "v1.3.0",
+            "version": "v1.3.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tencentyun/cos-php-sdk-v5.git",
-                "reference": "989c087a5aaf9b5df020b1d2633644e7c9f694e0"
+                "reference": "ca816d61a5412dd7a248119992b7d32687b10f86"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tencentyun/cos-php-sdk-v5/zipball/989c087a5aaf9b5df020b1d2633644e7c9f694e0",
-                "reference": "989c087a5aaf9b5df020b1d2633644e7c9f694e0",
+                "url": "https://api.github.com/repos/tencentyun/cos-php-sdk-v5/zipball/ca816d61a5412dd7a248119992b7d32687b10f86",
+                "reference": "ca816d61a5412dd7a248119992b7d32687b10f86",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -231,7 +231,7 @@
                 "php",
                 "qcloud"
             ],
-            "time": "2018-11-27 13:31:54"
+            "time": "2019-01-28 12:46:20"
         },
         {
             "name": "symfony/event-dispatcher",
@@ -301,16 +301,16 @@
         },
         {
             "name": "topthink/framework",
-            "version": "v5.1.33",
+            "version": "v5.1.34",
             "source": {
                 "type": "git",
                 "url": "https://github.com/top-think/framework.git",
-                "reference": "477e1cef91290a36398ecbcdffcec7268d80f0dd"
+                "reference": "7c8cd1ea2bd4683a6ef46af415334260c6e2cc15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/top-think/framework/zipball/477e1cef91290a36398ecbcdffcec7268d80f0dd",
-                "reference": "477e1cef91290a36398ecbcdffcec7268d80f0dd",
+                "url": "https://api.github.com/repos/top-think/framework/zipball/7c8cd1ea2bd4683a6ef46af415334260c6e2cc15",
+                "reference": "7c8cd1ea2bd4683a6ef46af415334260c6e2cc15",
                 "shasum": "",
                 "mirrors": [
                     {
@@ -354,7 +354,7 @@
                 "orm",
                 "thinkphp"
             ],
-            "time": "2019-01-16 06:10:52"
+            "time": "2019-01-30 06:38:38"
         },
         {
             "name": "topthink/think-captcha",
