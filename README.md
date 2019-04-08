@@ -21,4 +21,4 @@ smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使
 <div style="margin: 0 auto;width:100%;"><img src="https://biila-1252509853.cos.ap-guangzhou.myqcloud.com/alipay.jpg" width="200"><br>支付宝</div>
 <div style="margin: 0 auto;width:100%;"><img src="https://biila-1252509853.cos.ap-guangzhou.myqcloud.com/weixinpay.jpg" width="200"><br>微信</div>
 <a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
-[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+<a href="https://github.com/996icu/996.ICU/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" /></a>
