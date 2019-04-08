@@ -20,4 +20,4 @@ smcmf是一个有前后端基础的程序员使用的一个CMF系统，后端使
 如果您觉得好用的话动动手指支持一下，谢谢。
 <div style="margin: 0 auto;width:100%;"><img src="https://biila-1252509853.cos.ap-guangzhou.myqcloud.com/alipay.jpg" width="200"><br>支付宝</div>
 <div style="margin: 0 auto;width:100%;"><img src="https://biila-1252509853.cos.ap-guangzhou.myqcloud.com/weixinpay.jpg" width="200"><br>微信</div>
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
